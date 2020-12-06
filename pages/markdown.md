@@ -13,7 +13,6 @@ category: development
 tags: markdown cheatsheet
 draft: false
 ---
-
 # Markdown for This Blog
 
 Common markdown format for Gitbook, gatsby-starter-bee, and VNote.
